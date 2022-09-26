@@ -1,4 +1,4 @@
-name: Theme preview
+name: Test pull_request synchronize trigger.
 
 on:
   pull_request:
